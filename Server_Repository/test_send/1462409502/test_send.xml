@@ -1,0 +1,22 @@
+
+  <folder name="test_send.xml">
+    <file>
+      <name>
+        test_send.txt
+      </name>
+      <open>
+        false
+      </open>
+      <author>
+        Ronak
+      </author>
+      <dependencies>
+        <depFile>
+          Test.cpp
+        </depFile>
+        <depFile>
+          test.h
+        </depFile>
+      </dependencies>
+    </file>
+  </folder>

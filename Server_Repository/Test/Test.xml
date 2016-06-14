@@ -1,0 +1,33 @@
+
+  <folder name="Test.xml">
+    <file>
+      <name>
+        Test.txt
+      </name>
+      <check>
+        true
+      </check>
+      <author>
+        Ronak
+	</author>
+      <dependencies>
+        <depFile>
+          ./Server_Repository/Test/test_send_server.txt
+		</depFile>
+        <depFile>
+          ./Server_Repository/Test2/Test2.txt
+		</depFile>
+      </dependencies>
+    </file>
+    <file>
+      <name>
+        test_send_server.txt
+	  </name>
+      <check>
+        true</check>
+      <author>
+        Ronak</author>
+      <dependencies>
+      </dependencies>
+    </file>
+   </folder>

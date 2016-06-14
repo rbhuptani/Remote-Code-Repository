@@ -1,0 +1,20 @@
+﻿  MockChannel.cpp
+  Cpp11-BlockingQueue.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Sender.cpp
+  Receiver.cpp
+  MetadataHandler.cpp
+  Logger.cpp
+  HTTPMessage.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  Client.cpp
+  Generating Code...
+     Creating library D:\Study\OOD\Project2\Remote_Code_Repository\Debug\MockChannel.lib and object D:\Study\OOD\Project2\Remote_Code_Repository\Debug\MockChannel.exp
+  MockChannel.vcxproj -> D:\Study\OOD\Project2\Remote_Code_Repository\Debug\MockChannel.dll

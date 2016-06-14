@@ -1,0 +1,17 @@
+﻿  Server.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Sender.cpp
+  Receiver.cpp
+  MetadataHandler.cpp
+  Logger.cpp
+  HTTPMessage.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  Generating Code...
+  Server.vcxproj -> D:\Study\OOD\Project2\Remote_Code_Repository\Debug\Server.exe
